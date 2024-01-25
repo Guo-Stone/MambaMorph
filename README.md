@@ -1,4 +1,4 @@
-# MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for \\Deformable MR-CT Registration  
+# MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration  
 
 # Tutorial
 Train
