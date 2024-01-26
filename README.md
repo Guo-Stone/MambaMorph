@@ -16,3 +16,13 @@ We implement MambaMorph on our reproposed data SR-Reg. We will post online after
 
 # Contact:
 guotao@buaa.edu.cn
+
+# Citation
+@misc{guo2024mambamorph,
+      title={MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration}, 
+      author={Tao Guo and Yinuo Wang and Cai Meng},
+      year={2024},
+      eprint={2401.13934},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
