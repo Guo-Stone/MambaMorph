@@ -1,4 +1,4 @@
-# MambaMorph: a Mamba-based Framework for Multi-modality Deformable Registration
+# MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration
 
 # Tutorial
 Train
