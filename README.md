@@ -11,10 +11,10 @@ Test
 python ./scripts/torch/test_cross.py --gpu 0 --model mm --load-model "/home/guotao/code/voxelmorph-dev/output/train_s46/min_train.pt"
 ```
 
-# Data:
+# Data
 We implement MambaMorph on our reproposed data SR-Reg. We will post online after getting necessary permission.
 
-# Contact:
+# Contact
 guotao@buaa.edu.cn
 
 # Paper
