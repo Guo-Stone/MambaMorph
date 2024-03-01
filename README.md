@@ -1,6 +1,9 @@
 # MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration
 
 # Tutorial
+Install Mamba
+https://github.com/state-spaces/mamba
+
 Train
 ```
 python ./scripts/torch/train_cross.py --gpu 1 --epochs 1 --batch-size 1 --model-dir output/train_debug --model mm-feat --cl 0.001
