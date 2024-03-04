@@ -1,7 +1,6 @@
 # MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration
 
-
-![MambaMorph-nocl-v2](https://github.com/Guo-Stone/MambaMorph/assets/77957555/a3310649-2e46-4842-bf1e-44c6110db12b)
+![MambaMorph-nocl-v2-github](https://github.com/Guo-Stone/MambaMorph/assets/77957555/d52f5f51-be91-47bc-a11b-cc1a3327aad2)
 
 
 # Tutorial
@@ -18,7 +17,10 @@ python ./scripts/torch/test_cross.py --gpu 0 --model mm --load-model "/home/guot
 ```
 
 # Data
-We implement MambaMorph on our reproposed data SR-Reg. We will post online after getting necessary permission.
+We implement MambaMorph on our reproposed data SR-Reg which is developed from SynthRAD 2023 (https://synthrad2023.grand-challenge.org/). We will upload SR-Reg online after getting necessary permission.
+
+![data-sample](https://github.com/Guo-Stone/MambaMorph/assets/77957555/41cb7576-4fff-49c7-9202-0fc14d7cb9ab)
+
 
 # Contact
 guotao@buaa.edu.cn
