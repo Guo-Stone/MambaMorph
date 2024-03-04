@@ -1,6 +1,7 @@
 # MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration
 
-![visual-result-v3](https://github.com/Guo-Stone/MambaMorph/assets/77957555/f3b71505-6f08-4816-851b-32a728fe7169)
+
+![MambaMorph-nocl-v2](https://github.com/Guo-Stone/MambaMorph/assets/77957555/a3310649-2e46-4842-bf1e-44c6110db12b)
 
 
 # Tutorial
