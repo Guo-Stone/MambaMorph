@@ -21,9 +21,16 @@ We implement MambaMorph on our brain MR-CT data SR-Reg which is developed from S
 
 ![data-sample](https://github.com/Guo-Stone/MambaMorph/assets/77957555/41cb7576-4fff-49c7-9202-0fc14d7cb9ab)
 
-
 # Contact
 guotao@buaa.edu.cn
 
 # Paper
 https://arxiv.org/abs/2401.13934
+
+# Citation
+@article{guo2024mambamorph,
+  title={MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration},
+  author={Guo, Tao and Wang, Yinuo and Shu, Shihao and Chen, Diansheng and Tang, Zhouping and Meng, Cai and Bai, Xiangzhi},
+  journal={arXiv preprint arXiv:2401.13934},
+  year={2024}
+}
