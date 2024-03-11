@@ -28,9 +28,14 @@ guotao@buaa.edu.cn
 https://arxiv.org/abs/2401.13934
 
 # Citation
-@article{guo2024mambamorph,
-  title={MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration},
-  author={Guo, Tao and Wang, Yinuo and Shu, Shihao and Chen, Diansheng and Tang, Zhouping and Meng, Cai and Bai, Xiangzhi},
-  journal={arXiv preprint arXiv:2401.13934},
-  year={2024}
+@article{guo2024mambamorph,  
+
+  title={MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration},  
+  
+  author={Guo, Tao and Wang, Yinuo and Shu, Shihao and Chen, Diansheng and Tang, Zhouping and Meng, Cai and Bai, Xiangzhi},  
+  
+  journal={arXiv preprint arXiv:2401.13934},  
+  
+  year={2024}  
+  
 }
