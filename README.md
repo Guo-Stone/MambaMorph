@@ -4,12 +4,10 @@
 Install Mamba via https://github.com/state-spaces/mamba
 
 ### Framework
-
-![MambaMorph-nocl-v2-github](E:\Science Research\Medical Image\Paper\IMG\MambaMorph-nocl-v2-github.png)
+![MambaMorph-nocl-v2-github](https://github.com/Guo-Stone/MambaMorph/assets/77957555/8c14c6a4-012c-4153-8442-a1ad5555367f)
 
 ### Result
-
-![Result](E:\Science Research\Medical Image\Paper\IMG\Result.png)
+![Result](https://github.com/Guo-Stone/MambaMorph/assets/77957555/6318dfcb-0325-4d49-b8b2-4bd78823a303)
 
 ### **Train**
 
@@ -29,8 +27,8 @@ We implement MambaMorph on our brain MR-CT data SR-Reg which is developed from S
 
 
 ### Data sample
+![data-sample](https://github.com/Guo-Stone/MambaMorph/assets/77957555/f715aa06-0cf7-41b6-915c-e3ee98756f75)
 
-![data-sample](E:\Science Research\Medical Image\Paper\IMG\data-sample.png)
 
 # Contact
 guotao@buaa.edu.cn
