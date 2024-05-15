@@ -22,7 +22,7 @@ python ./scripts/torch/test_cross.py --gpu 0 --model mm-feat --load-model "/home
 ```
 
 # Data
-We implement MambaMorph on our brain MR-CT data SR-Reg which is developed from SynthRAD 2023 (https://synthrad2023.grand-challenge.org/). SR-Reg is provided under a CC-BY-NC 4.0 International license and available at https://drive.google.com/drive/folders/1qxUM-PuvWe1S6GvWudyKUXY8p_jnP_gN?usp=drive_link. When you use SR-Reg, please cite MambaMorph.
+We implement MambaMorph on our brain MR-CT data SR-Reg which is developed from SynthRAD 2023 (https://synthrad2023.grand-challenge.org/).
 
 
 
