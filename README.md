@@ -30,9 +30,6 @@ We implement MambaMorph on our brain MR-CT data SR-Reg which is developed from S
 ![data-sample](https://github.com/Guo-Stone/MambaMorph/assets/77957555/f715aa06-0cf7-41b6-915c-e3ee98756f75)
 
 
-# Contact
-guotao@buaa.edu.cn
-
 # Paper
 https://arxiv.org/abs/2401.13934
 
