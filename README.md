@@ -35,14 +35,18 @@ https://arxiv.org/abs/2401.13934
 
 # Citation
 
-@article{guo2024mambamorph,  
+@article{wang2025mamba,
 
-  title={MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration},  
+  title={Mamba-based deformable medical image registration with an annotated brain MR-CT dataset},
+  
+  author={Wang, Yinuo and Guo, Tao and Yuan, Weimin and Shu, Shihao and Meng, Cai and Bai, Xiangzhi},
+  
+  journal={Computerized Medical Imaging and Graphics},
+  
+  pages={102566},
+  
+  year={2025},
 
-  author={Guo, Tao and Wang, Yinuo and Shu, Shihao and Chen, Diansheng and Tang, Zhouping and Meng, Cai and Bai, Xiangzhi},  
-
-  journal={arXiv preprint arXiv:2401.13934},  
-
-  year={2024}  
-
+  publisher={Elsevier}
+  
 }
